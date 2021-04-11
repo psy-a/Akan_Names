@@ -1,15 +1,15 @@
-# Aspin's Programming Portfolio
-#### This is my programming portfolio website done on my week 4 as an Independent Project at Moringa School, 4th April 2021.
+# Aspin's Akan Names Project.
+#### This is my Akan Names project website done on my week 5 as an Independent Project at Moringa School, 4th April 2021.
 #### By **Aspin Isoe**
 ## Description
-This website contains my details, about me, a sample of my projects and means of contacting me.
+This is a website that determines your day of birth based on your date of birth and then assigns an Akan Name based on the Ghanian Culture.
 ## Pre-requisites
 You need to have git installed.
 If not, you can install git with the following command in your terminal; '$ sudo apt-get install git-all`.
 ## Setup/Installation Requirements
 To access this project on your local files, you can clone it using these steps.
 * Open your terminal.
-* Use this command to clone `$ git clone https://github.com/psy-a/programming_portfolio.git'.
+* Use this command to clone `$ git clone https://github.com/psy-a/Akan_Names.git'.
 * This will clone the repositoty into your local folder.
 * Enjoy.
 ## Known Bugs
@@ -17,7 +17,9 @@ There are no known bugs at this moment.
 ## Technologies Used
 1. HTML
 2. CSS
-3. GIT
+3. Bootstrap
+4. Javascript
+5. GIT
 ### Live Site
 View [live](https://psy-a.github.io/programming_portfolio/)
 ## Support and contact details
