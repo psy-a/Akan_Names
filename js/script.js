@@ -21,8 +21,15 @@ function submitFormValues() {
   } else {
     gender = "NONE";
   }
-
-  showAkanName(day, month, year, gender);
+  if (gender === "NONE") {
+    alert("You must select gender");
+  } else if (parseInt(day) <= 0 || parseInt(day) > 31) {
+    alert("check if you entered right value for day");
+  } else if (parseInt(month) <= 0 || parseInt(month) > 12) {
+    alert("Check if you eneterd right value for month");
+  } else {
+    showAkanName(day, month, year, gender);
+  }
 }
 
 function showAkanName(dateSelected, month, year, gender) {
