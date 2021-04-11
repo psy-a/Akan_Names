@@ -1,20 +1,21 @@
 body {
-    background-image: url(../images/back.jpeg);
-    background-size: cover;
-    background-repeat: no-repeat;
+  background-image: url(../images/back.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .container {
-    padding-top: 10%;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding-top: 10%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 h1 {
-    font-weight: 700;
+  font-weight: 700;
 }
 .form-group {
-    padding-left: 20%;
-    padding-top: 2%;
-    font-size: large;
+  padding-left: 30%;
+  padding-top: 2%;
+  font-size: x-large;
 }
 #submit {
-    margin-top: 2%;
+  margin-top: 4%;
 }
