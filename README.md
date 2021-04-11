@@ -21,7 +21,7 @@ There are no known bugs at this moment.
 4. Javascript
 5. GIT
 ### Live Site
-View [live](https://psy-a.github.io/akan_names/)
+View [live](https://psy-a.github.io/Akan_Names/)
 ## Support and contact details
 For any questions, suggestions, contribution or assistance, reach me on aspin.isoe@student.moringaschool.com
 ### License
