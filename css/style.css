@@ -4,12 +4,13 @@ body {
   background-repeat: no-repeat;
 }
 .container {
-  padding-top: 10%;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding-top: 5%;
+  font-family: Quicksand;
+  font-weight: 550;
+  font-size: 20px;
 }
 h1 {
-  font-weight: 700;
+  font-weight: 1000;
 }
 .form-group {
   padding-left: 30%;
