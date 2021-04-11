@@ -10,3 +10,11 @@ body {
 h1 {
     font-weight: 700;
 }
+.form-group {
+    padding-left: 20%;
+    padding-top: 2%;
+    font-size: large;
+}
+#submit {
+    margin-top: 2%;
+}
