@@ -48,7 +48,7 @@
           <div class="form-group">
             <label for="birthday"><strong>Gender</strong></label
             ><br />
-            <input type="radio" id="male" name="gender" value="male" />
+            <input type="radio" id="male" name="gender" value="male" required />
             <label for="male">Male</label>
             <input type="radio" id="female" name="gender" value="female" />
             <label for="female">Female</label><br />
@@ -200,7 +200,7 @@
             <button
               type="submit"
               id="submit"
-              onclick="getFormValues()"
+              onclick="submitFormValues()"
               class="btn btn-outline-primary btn-lg"
             >
               Submit
