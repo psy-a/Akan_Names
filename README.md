@@ -1,0 +1,27 @@
+# Aspin's Programming Portfolio
+#### This is my programming portfolio website done on my week 4 as an Independent Project at Moringa School, 4th April 2021.
+#### By **Aspin Isoe**
+## Description
+This website contains my details, about me, a sample of my projects and means of contacting me.
+## Pre-requisites
+You need to have git installed.
+If not, you can install git with the following command in your terminal; '$ sudo apt-get install git-all`.
+## Setup/Installation Requirements
+To access this project on your local files, you can clone it using these steps.
+* Open your terminal.
+* Use this command to clone `$ git clone https://github.com/psy-a/programming_portfolio.git'.
+* This will clone the repositoty into your local folder.
+* Enjoy.
+## Known Bugs
+There are no known bugs at this moment.
+## Technologies Used
+1. HTML
+2. CSS
+3. GIT
+### Live Site
+View [live](https://psy-a.github.io/programming_portfolio/)
+## Support and contact details
+For any questions, suggestions, contribution or assistance, reach me on aspin.isoe@student.moringaschool.com
+### License
+This project is under the  [MIT](LICENSE) licence
+Copyright (c) 2021 **Aspin Isoe**
