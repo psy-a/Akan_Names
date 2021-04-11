@@ -1,0 +1,12 @@
+body {
+    background-image: url(../images/back.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    padding-top: 10%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1 {
+    font-weight: 700;
+}
