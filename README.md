@@ -1,5 +1,5 @@
 # Aspin's Akan Names Project.
-#### This is my Akan Names project website done on my week 5 as an Independent Project at Moringa School, 4th April 2021.
+#### This is my Akan Names project website done on my week 6 as an Independent Project at Moringa School, 4th April 2021.
 #### By **Aspin Isoe**
 ## Description
 This is a website that determines your day of birth based on your date of birth and then assigns an Akan Name based on the Ghanian Culture.
